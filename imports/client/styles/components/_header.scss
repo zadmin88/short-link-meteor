@@ -1,0 +1,25 @@
+.header {
+  background: $header-bg;
+  color: $header-color;
+}
+
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  max-width: $site-max-width;
+  margin: 0 auto;
+  padding: $space;
+
+}
+
+.header__tittle {
+  margin:0;
+}
+
+.button--link-text {
+  background: none;
+  padding: 0;
+  margin: 0;
+  text-decoration: underline;
+  text-transform: none;
+}
