@@ -11,7 +11,7 @@ export default () => {
   return  (
     <div className="boxed-view">
     <div className="boxed-view__box">
-        <h1>Page Not FOund</h1>
+        <h1>Pque cagada</h1>
         <p>sorry mothrfckr</p>
         <Link to="/" className="button button--link">Go home</Link>
       </div>
